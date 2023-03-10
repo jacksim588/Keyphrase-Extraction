@@ -1,0 +1,17 @@
+<Product VersionDateTime="2018-04-05T19:10:31Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5000177491460</Code>
+      <Code Scheme="BRANDBANK:PVID">5661107</Code>
+    </ProductCodes>
+    <Subscription Id="43013" Code="AMAC005">Refresco Drinks - Branded (Cott)</Subscription>
+    <DiagnosticDescription Code="en-GB">Old Jamaica Ginger Beer 2L</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>

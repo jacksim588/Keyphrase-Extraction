@@ -1,0 +1,17 @@
+<Product VersionDateTime="2020-01-20T16:31:44Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5000177493457</Code>
+      <Code Scheme="BRANDBANK:PVID">7848033</Code>
+    </ProductCodes>
+    <Subscription Id="42807" Code="APWC001">Petty Wood &amp; Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Nexba Coconut &amp; Mango Flavoured Sparkling Water 4 x 330ml</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>

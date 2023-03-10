@@ -1,0 +1,442 @@
+<Product VersionDateTime="2021-03-30T00:15:02Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5000177494591</Code>
+      <Code Scheme="BRANDBANK:PVID">9158068</Code>
+    </ProductCodes>
+    <Subscription Id="42163" Code="ACAL001">Refresco Drinks - Calypso Branded</Subscription>
+    <DiagnosticDescription Code="en-GB">Mr. Freeze Freeze Pops 20 x 20ml</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Availability StartDateTime="2021-03-29T23:00:00Z"/>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <Resolution>72</Resolution>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=01c4c9fd-6033-22a9-06cd-6e3a0cc008c4</Url>
+      <Thumbprint>kbpsi0HIPxYK9GFgkAt+sw==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Mr. Freeze Freeze Pops 20 x 20ml</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="06">Frozen Foods</Level>
+          <Level Code="05">Ice Creams &amp; Frozen Desserts</Level>
+          <Level Code="06">Lollies, Bars &amp; Toppings</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Statements Id="1" Name="Third Party Logos">
+          <Statement Id="1946">FSC</Statement>
+        </Statements>
+        <Statements Id="2" Name="Lifestyle">
+          <Statement Id="68">Suitable for Vegans</Statement>
+          <Statement Id="69">Suitable for Vegetarians</Statement>
+        </Statements>
+        <Memo Id="3" Name="Other Information" xml:space="preserve">FSC - FSC® Mix, Packaging, FSC® C006122
+
+Sleeve - Don't Recycle
+Box - Recycle</Memo>
+        <NameLookups Id="4" Name="Allergy Advice">
+          <NameValue>
+            <Name Id="162">Barley</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+        </NameLookups>
+        <NameLookups Id="5" Name="Additives">
+          <NameValue>
+            <Name Id="2315">Sweeteners</Name>
+            <Value Id="4">Contains</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Made by:
+Refresco,
+Citrus Grove,
+Side Ley,
+Kegworth,
+Derby,
+DE74 2FJ,
+UK.
+
+Refresco Europe B.V.,
+Fascinatio Boulevard 270,
+3065 WB Rotterdam,
+The Netherlands.</Memo>
+        <NameTextItems Id="16" Name="Dimension">
+          <NameText>
+            <Name Id="183">Shelf Height</Name>
+            <Text xml:space="preserve">172</Text>
+          </NameText>
+          <NameText>
+            <Name Id="184">Shelf Width</Name>
+            <Text xml:space="preserve">118</Text>
+          </NameText>
+          <NameText>
+            <Name Id="185">Shelf Depth</Name>
+            <Text xml:space="preserve">51</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Freeze before consumption.
+Best Before End See side of pack.
+Store in a cool place away from direct sunlight.</Memo>
+        <Memo Id="21" Name="Further Description" xml:space="preserve">Brrrrilliant Frosty Facts
+The Arctic ocean is the smallest and shallowest of the five major oceans.
+
+Take a look at our frosty world website with fun polls, quizzes, colouring in pages and more! Visit: www.mr-freezepops.co.uk</Memo>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Mr. Freeze</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Refresco,
+Citrus Grove,
+Side Ley,
+Kegworth,
+Derby,
+DE74 2FJ,
+UK.</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="271">Ambient</Value>
+          </NameValue>
+        </NameLookups>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="282">Box</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Natural colours &amp; flavours</Text>
+          <Text xml:space="preserve">For Our Friends Around the World!</Text>
+          <Text xml:space="preserve">Suitable for vegetarians and vegans</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="8703">Mr. Freeze</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="34" Name="Weight">
+          <NameText>
+            <Name Id="227">Gross Weight</Name>
+            <Text xml:space="preserve">448</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="35" Name="Product Marketing" xml:space="preserve">Made with good stuff like natural colours and flavours, they are a perfect treat as part of a balanced diet</Memo>
+        <Memo Id="36" Name="Brand Marketing" xml:space="preserve">Full of Flavour and Lots of Fun!
+Our Mr Freeze Freezepops have been loved by children and adults for generations.</Memo>
+        <LongTextItems Id="40" Name="Box Contents">
+          <Text xml:space="preserve">Tropical</Text>
+          <Text xml:space="preserve">Lemonade</Text>
+          <Text xml:space="preserve">Strawberry</Text>
+          <Text xml:space="preserve">Cola</Text>
+          <Text xml:space="preserve">Raspberry</Text>
+        </LongTextItems>
+        <NameTextItems Id="66" Name="Number of Units">
+          <NameText>
+            <Name Id="925">Number of Units</Name>
+            <Text xml:space="preserve">20</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">20</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12573" Code="ml">Millilitres</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">20</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">ml</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Water</Text>
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">Acid (Citric Acid)</Text>
+          <Text xml:space="preserve">Stabilisers (Cellulose Gum, Glycerol)</Text>
+          <Text xml:space="preserve">Flavourings</Text>
+          <Text xml:space="preserve">Barley Malt Extract</Text>
+          <Text xml:space="preserve">Fruit and Vegetable Concentrates (Carrot, Black Carrot, Safflower, Lemon, Blackcurrant, Hibiscus)</Text>
+          <Text xml:space="preserve">Sweetener (Acesulfame K)</Text>
+          <Text xml:space="preserve">Colour (Beta Carotene)</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>Per 100ml</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy</Name>
+            <Values>
+              <Value>128kJ/30kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat</Name>
+            <Values>
+              <Value>0.0g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which saturates</Name>
+            <Values>
+              <Value>0.0g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrate</Name>
+            <Values>
+              <Value>6.9g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which sugars</Name>
+            <Values>
+              <Value>6.9 g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein</Name>
+            <Values>
+              <Value>0.0g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt</Name>
+            <Values>
+              <Value>0.03g</Value>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>ml</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>128.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>30.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>0.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>0.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>6.9000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>6.9000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>0.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>0.0300</Value>
+            </Per100>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="119" Name="Shelf Ready Pack">
+          <NameText>
+            <Name Id="1414">GTIN</Name>
+            <Text xml:space="preserve">05000177494584</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1406">Height</Name>
+            <Text xml:space="preserve">131</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1407">Width</Name>
+            <Text xml:space="preserve">361</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1408">Depth</Name>
+            <Text xml:space="preserve">318</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1409">Weight</Name>
+            <Text xml:space="preserve">5596</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1410">Unit Count</Name>
+            <Text xml:space="preserve">12</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1411">Unit Height</Name>
+            <Text xml:space="preserve">1</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1412">Unit Width</Name>
+            <Text xml:space="preserve">2</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1413">Unit Depth</Name>
+            <Text xml:space="preserve">6</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1415">Merchandise Multiple Ways</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1785">Prototype</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1821">Is Case</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="121" Name="Case">
+          <NameText>
+            <Name Id="1421">GTIN</Name>
+            <Text xml:space="preserve">05000177494584</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1416">Height</Name>
+            <Text xml:space="preserve">131</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1417">Width</Name>
+            <Text xml:space="preserve">318</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1418">Depth</Name>
+            <Text xml:space="preserve">361</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1419">Weight</Name>
+            <Text xml:space="preserve">5661</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1420">Unit Count</Name>
+            <Text xml:space="preserve">12</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1786">Prototype</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="134" Name="Unit Merchandising">
+          <NameText>
+            <Name Id="1778">Height</Name>
+            <Text xml:space="preserve">118</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1779">Width</Name>
+            <Text xml:space="preserve">172</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1780">Depth</Name>
+            <Text xml:space="preserve">51</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1782">Unit Stackable</Name>
+            <Text xml:space="preserve">Yes</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1781">Unit Stable</Name>
+            <Text xml:space="preserve">Yes</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1783">Merchandise Multiple Ways</Name>
+            <Text xml:space="preserve">Yes</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="137" Name="New Product Development">
+          <NameValue>
+            <Name Id="1818">New Product Development</Name>
+            <Value Id="27719">Final Product - Not NPD</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Assorted Flavour Freezepops with Sugar and Sweetener. Strawberry Flavour/ Raspberry Flavour/ Lemon Flavour/ Cola Flavour/ Tropical Flavour.</Memo>
+        <Statements Id="173" Name="Allergen Tag Format">
+          <Statement Id="1902">Bold</Statement>
+        </Statements>
+        <TaggedMemo Id="176" Name="Taggable Information">
+          <Content xml:space="preserve">For allergens, including Cereals containing Gluten, see ingredients in bold.</Content>
+          <Tags>
+            <Tag StartIndex="71" Length="4" TagTypeId="2" TagType="Allergen Highlighting Method"/>
+          </Tags>
+        </TaggedMemo>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Water</Text>
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">Acid (Citric Acid)</Text>
+          <Text xml:space="preserve">Stabilisers (Cellulose Gum, Glycerol)</Text>
+          <Text xml:space="preserve">Flavourings</Text>
+          <Text xml:space="preserve">Barley Malt Extract</Text>
+          <Text xml:space="preserve">Fruit and Vegetable Concentrates (Carrot, Black Carrot, Safflower, Lemon, Blackcurrant, Hibiscus)</Text>
+          <Text xml:space="preserve">Sweetener (Acesulfame K)</Text>
+          <Text xml:space="preserve">Colour (Beta Carotene)</Text>
+          <Tags>
+            <Tag TextIndex="5" StartIndex="0" Length="6" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Freeze Pops</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Refresco</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">Citrus Grove,
+Side Ley,
+Kegworth,
+Derby,
+DE74 2FJ,
+UK.</Memo>
+        <LongTextItems Id="245" Name="Social Media">
+          <Text xml:space="preserve">Get Social with Us! Instagram mr.freezepops, Twitter MrFreezePops, Facebook MrFreezeOfficial</Text>
+        </LongTextItems>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

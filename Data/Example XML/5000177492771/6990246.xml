@@ -1,0 +1,351 @@
+<Product VersionDateTime="2019-06-11T14:05:53Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5000177492771</Code>
+      <Code Scheme="BRANDBANK:PVID">6990246</Code>
+    </ProductCodes>
+    <Subscription Id="43013" Code="AMAC005">Refresco Drinks - Branded (Cott)</Subscription>
+    <DiagnosticDescription Code="en-GB">Old Jamaica Ginger Beer Regular 330ml</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=001b91c0-ad6d-d1ef-bf35-4fbf07966aa4</Url>
+      <Thumbprint>DqWZISnDPPqx1lIW7KMqRQ==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Old Jamaica Ginger Beer Regular 330ml</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="13">Drinks</Level>
+          <Level Code="01">Carbonated Drinks</Level>
+          <Level Code="05">Canned Carbonated Drinks</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Refresco,
+Citrus Grove,
+Side Ley,
+Kegworth,
+Derby,
+DE74 2FJ,
+UK.</Memo>
+        <NameTextItems Id="16" Name="Dimension">
+          <NameText>
+            <Name Id="183">Shelf Height</Name>
+            <Text xml:space="preserve">116</Text>
+          </NameText>
+          <NameText>
+            <Name Id="184">Shelf Width</Name>
+            <Text xml:space="preserve">66</Text>
+          </NameText>
+          <NameText>
+            <Name Id="185">Shelf Depth</Name>
+            <Text xml:space="preserve">66</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="19" Name="Preparation and Usage" xml:space="preserve">Serve cool</Memo>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Store in a cool, dry place out of direct sunlight.
+Best before end: See base of can.</Memo>
+        <NameLookups Id="23" Name="Country">
+          <NameValue>
+            <Name Id="195">Country of Origin</Name>
+            <Value Id="251" Code="GB">United Kingdom</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Old Jamaica</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Refresco,
+Citrus Grove,
+Side Ley,
+Kegworth,
+Derby,
+DE74 2FJ,
+UK.
+www.oldjamaicagingerbeer.com</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="271">Ambient</Value>
+          </NameValue>
+        </NameLookups>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="283">Can</Value>
+          </NameValue>
+        </NameLookups>
+        <Statements Id="30" Name="Promotional Pack Type">
+          <Statement Id="217">Price Mark</Statement>
+        </Statements>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Made with authentic root ginger from Jamaica</Text>
+          <Text xml:space="preserve">Naturally flavoured carbonated beverage</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="7950">Old Jamaica</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="34" Name="Weight">
+          <NameText>
+            <Name Id="227">Gross Weight</Name>
+            <Text xml:space="preserve">359</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="36" Name="Brand Marketing" xml:space="preserve">Established in 1988, Old Jamaica Ginger Beer is a genuine Jamaican brand, made from the potent and flavourful roots of ginger. A sip of Old Jamaica Ginger Beer embodies the same natural flavours that Grandma would infuse in her homemade Ginger Beer, Drops, Cakes and Cookies. It is as amazingly refreshing and crisp as it is unique and original! Old Jamaica Ginger Beer brings good Jamaican vibes when enjoyed anywhere and anytime. Tun up the flavour! Tun up the fiyah!</Memo>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">330</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12573" Code="ml">Millilitres</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">330</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">ml</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Carbonated Water</Text>
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">Acid (Citric Acid)</Text>
+          <Text xml:space="preserve">Flavourings (including Ginger Root Extract)</Text>
+          <Text xml:space="preserve">Stabiliser (Gum Arabic)</Text>
+          <Text xml:space="preserve">Acidity Regulator (Sodium Citrates)</Text>
+          <Text xml:space="preserve">Preservative (Sodium Benzoate)</Text>
+          <Text xml:space="preserve">Sweetener (Sucralose)</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>per 100ml</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy </Name>
+            <Values>
+              <Value>85kJ/20kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat </Name>
+            <Values>
+              <Value>&lt;0.1g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which saturates </Name>
+            <Values>
+              <Value>&lt;0.1g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrate </Name>
+            <Values>
+              <Value>4.9g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which sugars </Name>
+            <Values>
+              <Value>4.9g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein </Name>
+            <Values>
+              <Value>&lt;0.1g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt </Name>
+            <Values>
+              <Value>0.07g</Value>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>ml</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>85.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>20.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>.1000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>.1000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>4.9000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>4.9000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>.1000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>.0700</Value>
+            </Per100>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="134" Name="Unit Merchandising">
+          <NameText>
+            <Name Id="1778">Height</Name>
+            <Text xml:space="preserve">116</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1779">Width</Name>
+            <Text xml:space="preserve">66</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1780">Depth</Name>
+            <Text xml:space="preserve">66</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1768">Nesting Height</Name>
+            <Text xml:space="preserve">113</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1782">Unit Stackable</Name>
+            <Text xml:space="preserve">Yes</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1781">Unit Stable</Name>
+            <Text xml:space="preserve">Yes</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1783">Merchandise Multiple Ways</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="137" Name="New Product Development">
+          <NameValue>
+            <Name Id="1818">New Product Development</Name>
+            <Value Id="27719">Final Product - Not NPD</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="147" Name="Origin">
+          <NameText>
+            <Name Id="2016">Origin Free Text</Name>
+            <Text xml:space="preserve">Produced in the UK</Text>
+          </NameText>
+        </NameTextItems>
+        <Statements Id="149" Name="Recycling Scheme">
+          <Statement Id="1878">OPRL</Statement>
+        </Statements>
+        <LongTextItems Id="150" Name="Recycling Other Text">
+          <Text xml:space="preserve">Widely Recycled</Text>
+        </LongTextItems>
+        <LongTextItems Id="155" Name="Web Address">
+          <Text xml:space="preserve">www.oldjamaicagingerbeer.com</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Carbonated Ginger Beer Flavour Soft Drink with Sugar and Sweetener.</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="170" Name="Alternative Description">
+          <NameText>
+            <Name Id="2336">Promotional Description</Name>
+            <Text xml:space="preserve">Old Jamaica Ginger Beer Regular PMP 330ml</Text>
+          </NameText>
+        </NameTextItems>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Carbonated Water</Text>
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">Acid (Citric Acid)</Text>
+          <Text xml:space="preserve">Flavourings (including Ginger Root Extract)</Text>
+          <Text xml:space="preserve">Stabiliser (Gum Arabic)</Text>
+          <Text xml:space="preserve">Acidity Regulator (Sodium Citrates)</Text>
+          <Text xml:space="preserve">Preservative (Sodium Benzoate)</Text>
+          <Text xml:space="preserve">Sweetener (Sucralose)</Text>
+        </TaggedLongTextItems>
+        <NameLookups Id="180" Name="Product Composition">
+          <NameValue>
+            <Name Id="1988">Carbonated</Name>
+            <Value Id="39214">Carbonated</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Ginger Beer</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1998">Variant</Name>
+            <Text xml:space="preserve">Regular</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Refresco</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">Citrus Grove,
+Side Ley,
+Kegworth,
+Derby,
+DE74 2FJ,
+UK.</Memo>
+        <LongTextItems Id="245" Name="Social Media">
+          <Text xml:space="preserve">www.facebook.com/OldJamaica</Text>
+        </LongTextItems>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

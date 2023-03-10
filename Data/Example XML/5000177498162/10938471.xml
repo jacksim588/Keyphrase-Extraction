@@ -1,0 +1,352 @@
+<Product VersionDateTime="2022-11-03T15:50:38Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5000177498162</Code>
+      <Code Scheme="BRANDBANK:PVID">10938471</Code>
+    </ProductCodes>
+    <Subscription Id="43013" Code="AMAC005">Refresco Drinks - Branded (Cott)</Subscription>
+    <DiagnosticDescription Code="en-GB">Emerge Sport Tropical Berry 500ml</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <Resolution>72</Resolution>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <IsProhibitUpscale>false</IsProhibitUpscale>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>https://assets.brandbank.com/stream/downloadbound/915be19b-5063-4f60-84f3-ff4758e6a152</Url>
+      <Thumbprint>avWWtdVyt2uhzZY1C/kvQw==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Emerge Sport Tropical Berry 500ml</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="13">Drinks</Level>
+          <Level Code="03">Fruit Juice &amp; Drinks</Level>
+          <Level Code="05">Sport Drinks</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Statements Id="1" Name="Third Party Logos">
+          <Statement Id="3294">Mobius Loop</Statement>
+          <Statement Id="4458">Tidyman</Statement>
+        </Statements>
+        <Statements Id="2" Name="Lifestyle">
+          <Statement Id="68">Suitable for Vegans</Statement>
+          <Statement Id="69">Suitable for Vegetarians</Statement>
+        </Statements>
+        <NameLookups Id="5" Name="Additives">
+          <NameValue>
+            <Name Id="2315">Sweeteners</Name>
+            <Value Id="4">Contains</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Refresco Drinks UK Ltd,
+Citrus Grove,
+Side Ley,
+Kegworth,
+DE74 2FJ,
+UK.</Memo>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Best before end: see neck of bottle.
+Store in a cool, dry place out of direct sunlight.
+Once opened, refrigerate and consume within 3 days.</Memo>
+        <Memo Id="21" Name="Further Description" xml:space="preserve">Consume as part of a balanced diet and healthy lifestyle.</Memo>
+        <NameTextLookups Id="24" Name="Lower Age Limit">
+          <NameValueText>
+            <Name Id="188">Advisory</Name>
+            <Value Id="269">Months</Value>
+            <Text xml:space="preserve">36</Text>
+          </NameValueText>
+        </NameTextLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Emerge</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Refresco Drinks UK Ltd,
+Citrus Grove,
+Side Ley,
+Kegworth,
+DE74 2FJ,
+UK.</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="271">Ambient</Value>
+          </NameValue>
+        </NameLookups>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="310">Plastic Bottle</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">A Power Beyond Thirst</Text>
+          <Text xml:space="preserve">Isotonic for Endurance</Text>
+          <Text xml:space="preserve">Suitable for vegetarians and vegans</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="2132">Emerge</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="35" Name="Product Marketing" xml:space="preserve">There's no excuse to flag during any sporting activity - Emerge Sport contains water, carbohydrates and electrolytes to stay hydrated and help maintain performance during prolonged endurance exercise.</Memo>
+        <Memo Id="52" Name="Safety Warning" xml:space="preserve">CAUTION: Not suitable for children under 36 months as the cap may be a choking hazard due to small parts.
+WARNING: The colour in this product may stain fabric or clothing.</Memo>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">500</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12573" Code="ml">Millilitres</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">500</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">ml</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Water</Text>
+          <Text xml:space="preserve">Glucose-Fructose Syrup</Text>
+          <Text xml:space="preserve">Acid (Citric Acid)</Text>
+          <Text xml:space="preserve">Mineral Salts (Sodium Chloride, Potassium Phosphate, Calcium Chloride, Magnesium Chloride)</Text>
+          <Text xml:space="preserve">Flavourings</Text>
+          <Text xml:space="preserve">Preservatives (Dimethyl Dicarbonate, Potassium Sorbate)</Text>
+          <Text xml:space="preserve">Acidity Regulator (Potassium Citrate)</Text>
+          <Text xml:space="preserve">Stabiliser (Gum Arabic)</Text>
+          <Text xml:space="preserve">Vegetable Oil (Coconut, Palm)</Text>
+          <Text xml:space="preserve">Sweeteners (Sucralose, Acesulfame K)</Text>
+          <Text xml:space="preserve">Colour (Brilliant Blue)</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>Per 100ml</Heading>
+            <Heading>Per 500ml (bottle)</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy</Name>
+            <Values>
+              <Value>75kJ / 18kcal</Value>
+              <Value>376kJ / 88kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat</Name>
+            <Values>
+              <Value>&lt;0.5g</Value>
+              <Value>&lt;0.5g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which saturates</Name>
+            <Values>
+              <Value>&lt;0.1g</Value>
+              <Value>&lt;0.1g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrate</Name>
+            <Values>
+              <Value>4.1g</Value>
+              <Value>20.0g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which sugars</Name>
+            <Values>
+              <Value>4.0g</Value>
+              <Value>19.9g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein</Name>
+            <Values>
+              <Value>&lt;0.5g</Value>
+              <Value>&lt;0.5g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt</Name>
+            <Values>
+              <Value>0.12g</Value>
+              <Value>0.62g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Bottle contains 1 portion</Name>
+            <Values>
+              <Value/>
+              <Value/>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>ml</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <PerServingHeading>Per 500ml (bottle)</PerServingHeading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>75.0000</Value>
+            </Per100>
+            <PerServing>
+              <Value>376.0000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>18.0000</Value>
+            </Per100>
+            <PerServing>
+              <Value>88.0000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.5000</Value>
+            </Per100>
+            <PerServing>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.5000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.1000</Value>
+            </Per100>
+            <PerServing>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.1000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>4.1000</Value>
+            </Per100>
+            <PerServing>
+              <Value>20.0000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>4.0000</Value>
+            </Per100>
+            <PerServing>
+              <Value>19.9000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.5000</Value>
+            </Per100>
+            <PerServing>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.5000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>0.1200</Value>
+            </Per100>
+            <PerServing>
+              <Value>0.6200</Value>
+            </PerServing>
+          </NutrientValues>
+        </NumericNutrition>
+        <Statements Id="149" Name="Recycling Scheme">
+          <Statement Id="1878">OPRL</Statement>
+        </Statements>
+        <LongTextItems Id="150" Name="Recycling Other Text">
+          <Text xml:space="preserve">Cap On - Bottle - Recycle</Text>
+          <Text xml:space="preserve">Remove Sleeve - Sleeve - Don't Recycle</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Isotonic berry and tropical fruit flavour soft drink with sugars and sweeteners</Memo>
+        <NameTextItems Id="170" Name="Alternative Description">
+          <NameText>
+            <Name Id="2336">Promotional Description</Name>
+            <Text xml:space="preserve">Emerge Sport Tropical Berry 500ml PMP 65p</Text>
+          </NameText>
+        </NameTextItems>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Water</Text>
+          <Text xml:space="preserve">Glucose-Fructose Syrup</Text>
+          <Text xml:space="preserve">Acid (Citric Acid)</Text>
+          <Text xml:space="preserve">Mineral Salts (Sodium Chloride, Potassium Phosphate, Calcium Chloride, Magnesium Chloride)</Text>
+          <Text xml:space="preserve">Flavourings</Text>
+          <Text xml:space="preserve">Preservatives (Dimethyl Dicarbonate, Potassium Sorbate)</Text>
+          <Text xml:space="preserve">Acidity Regulator (Potassium Citrate)</Text>
+          <Text xml:space="preserve">Stabiliser (Gum Arabic)</Text>
+          <Text xml:space="preserve">Vegetable Oil (Coconut, Palm)</Text>
+          <Text xml:space="preserve">Sweeteners (Sucralose, Acesulfame K)</Text>
+          <Text xml:space="preserve">Colour (Brilliant Blue)</Text>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1998">Variant</Name>
+            <Text xml:space="preserve">Tropical Berry</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextLookups Id="191" Name="Usage Count">
+          <NameValueText>
+            <Name Id="2017">Number of uses</Name>
+            <Value Id="39552">Servings</Value>
+            <Text xml:space="preserve">1</Text>
+          </NameValueText>
+        </NameTextLookups>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Refresco Drinks UK Ltd</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">Citrus Grove,
+Side Ley,
+Kegworth,
+DE74 2FJ,
+UK.</Memo>
+        <LongTextItems Id="194" Name="Usage Other Text">
+          <Text xml:space="preserve">Bottle contains 1 portion</Text>
+        </LongTextItems>
+        <NameTextLookups Id="204" Name="Durability after Opening">
+          <NameValueText>
+            <Name Id="3780">Consume Within</Name>
+            <Value Id="52728">Days</Value>
+            <Text xml:space="preserve">3</Text>
+          </NameValueText>
+        </NameTextLookups>
+        <Memo Id="260" Name="Nutrition Other Text" xml:space="preserve">Bottle contains 1 portion</Memo>
+        <Statements Id="449" Name="Date Marking Type">
+          <Statement Id="4824">Best Before</Statement>
+        </Statements>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>
