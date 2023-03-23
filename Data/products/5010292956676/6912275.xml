@@ -1,0 +1,342 @@
+<Product VersionDateTime="2019-04-24T12:58:54Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292956676</Code>
+      <Code Scheme="BRANDBANK:PVID">6912275</Code>
+    </ProductCodes>
+    <Subscription Id="42341" Code="AWIN002">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Fournier &amp; Belle Flower Shaped Waffles 215g</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=002b75b1-d85e-ccd0-9719-308f07417246</Url>
+      <Thumbprint>VBGolbG9woiDpTuv/wGeCQ==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Fournier &amp; Belle Flower Shaped Waffles 215g</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="04">Ready Made Foods</Level>
+          <Level Code="02">Snacks</Level>
+          <Level Code="08">Other Snacks</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Statements Id="2" Name="Lifestyle">
+          <Statement Id="69">Suitable for Vegetarians</Statement>
+        </Statements>
+        <NameLookups Id="4" Name="Allergy Advice">
+          <NameValue>
+            <Name Id="112">Eggs</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="116">Milk</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="129">Wheat</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Produced for:
+Fournier &amp; Belle,
+Granville House,
+9 Wells Place,
+RH1 3AS.</Memo>
+        <NameTextItems Id="16" Name="Dimension">
+          <NameText>
+            <Name Id="183">Shelf Height</Name>
+            <Text xml:space="preserve">115</Text>
+          </NameText>
+          <NameText>
+            <Name Id="184">Shelf Width</Name>
+            <Text xml:space="preserve">205</Text>
+          </NameText>
+          <NameText>
+            <Name Id="185">Shelf Depth</Name>
+            <Text xml:space="preserve">66</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="19" Name="Preparation and Usage" xml:space="preserve">Serving Suggestion: For delicious, light toasted waffles, briefly toast for approx. 30 seconds and top with fruits, whipped cream or ice cream.</Memo>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Store in a cool dry place. Once opened, close the package securely and keep it away from the sun in a clean cool place.
+For best before date, see top of pack.</Memo>
+        <NameLookups Id="23" Name="Country">
+          <NameValue>
+            <Name Id="195">Country of Origin</Name>
+            <Value Id="42" Code="BE">Belgium</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Fournier &amp; Belle</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Fournier &amp; Belle,
+Granville House,
+9 Wells Place,
+RH1 3AS.</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="271">Ambient</Value>
+          </NameValue>
+        </NameLookups>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="306">Pack</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Fun flower shaped waffles perfect for a breakfast in bed!</Text>
+          <Text xml:space="preserve">All butter recipe with no palm oil</Text>
+          <Text xml:space="preserve">Suitable for vegetarians</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="119946">Fournier &amp; Belle</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="34" Name="Weight">
+          <NameText>
+            <Name Id="227">Gross Weight</Name>
+            <Text xml:space="preserve">249</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">215</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12570" Code="g">Grams</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">215</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">g</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">Concentrated Butter (25%) (Milk, Colouring: Carotenes)</Text>
+          <Text xml:space="preserve">Wheat Flour</Text>
+          <Text xml:space="preserve">Eggs</Text>
+          <Text xml:space="preserve">Whole Milk</Text>
+          <Text xml:space="preserve">Salt</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>per 100g</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy</Name>
+            <Values>
+              <Value>1989 kJ / 477 kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat </Name>
+            <Values>
+              <Value>29g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which saturates </Name>
+            <Values>
+              <Value>18g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrates </Name>
+            <Values>
+              <Value>47g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which sugars </Name>
+            <Values>
+              <Value>34g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fibre </Name>
+            <Values>
+              <Value>1.4g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein </Name>
+            <Values>
+              <Value>5.5g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt </Name>
+            <Values>
+              <Value>0.86g</Value>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>1989.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>477.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>29.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>18.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>47.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>34.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1194" Name="Fibre (g)">
+            <Per100>
+              <Value>1.40000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>5.50000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>0.86000</Value>
+            </Per100>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="134" Name="Unit Merchandising">
+          <NameText>
+            <Name Id="1778">Height</Name>
+            <Text xml:space="preserve">66</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1779">Width</Name>
+            <Text xml:space="preserve">205</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1780">Depth</Name>
+            <Text xml:space="preserve">115</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="147" Name="Origin">
+          <NameText>
+            <Name Id="2016">Origin Free Text</Name>
+            <Text xml:space="preserve">Produced in Belgium</Text>
+          </NameText>
+        </NameTextItems>
+        <Statements Id="149" Name="Recycling Scheme">
+          <Statement Id="1878">OPRL</Statement>
+        </Statements>
+        <LongTextItems Id="150" Name="Recycling Other Text">
+          <Text xml:space="preserve">Tray - Widely Recycled</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Flower Shaped Waffles</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <Statements Id="173" Name="Allergen Tag Format">
+          <Statement Id="1902">Bold</Statement>
+        </Statements>
+        <TaggedMemo Id="176" Name="Taggable Information">
+          <Content xml:space="preserve">For allergens, including Cereals containing Gluten, see allergens in bold</Content>
+          <Tags>
+            <Tag StartIndex="69" Length="4" TagTypeId="2" TagType="Allergen Highlighting Method"/>
+            <Tag StartIndex="44" Length="6" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedMemo>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">Concentrated Butter (25%) (Milk, Colouring: Carotenes)</Text>
+          <Text xml:space="preserve">Wheat Flour</Text>
+          <Text xml:space="preserve">Eggs</Text>
+          <Text xml:space="preserve">Whole Milk</Text>
+          <Text xml:space="preserve">Salt</Text>
+          <Tags>
+            <Tag TextIndex="1" StartIndex="27" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="2" StartIndex="0" Length="5" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="3" StartIndex="0" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="4" StartIndex="6" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Waffles</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1998">Variant</Name>
+            <Text xml:space="preserve">Flower Shaped</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Fournier &amp; Belle</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">Granville House,
+9 Wells Place,
+RH1 3AS.</Memo>
+        <TaggedMemo Id="197" Name="Taggable Allergy Text">
+          <Content xml:space="preserve">Not suitable for newborns and people with Gluten, Lactose, Egg allergies</Content>
+          <Tags>
+            <Tag StartIndex="42" Length="20" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedMemo>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

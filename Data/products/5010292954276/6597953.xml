@@ -1,0 +1,17 @@
+<Product VersionDateTime="2019-01-02T09:19:12Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292954276</Code>
+      <Code Scheme="BRANDBANK:PVID">6597953</Code>
+    </ProductCodes>
+    <Subscription Id="42341" Code="AWIN002">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Fournier &amp; Belle 8 Choc Chip Brioche Rolls 280g</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>

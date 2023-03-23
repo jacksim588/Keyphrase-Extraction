@@ -1,0 +1,17 @@
+<Product VersionDateTime="2020-03-25T12:33:59Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292954177</Code>
+      <Code Scheme="BRANDBANK:PVID">8002149</Code>
+    </ProductCodes>
+    <Subscription Id="42341" Code="AWIN002">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Squeaky Bean® Saucy Satay Kiev 200g</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>

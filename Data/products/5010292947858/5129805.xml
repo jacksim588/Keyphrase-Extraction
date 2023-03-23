@@ -1,0 +1,17 @@
+<Product VersionDateTime="2017-09-26T07:08:23Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292947858</Code>
+      <Code Scheme="BRANDBANK:PVID">5129805</Code>
+    </ProductCodes>
+    <Subscription Id="42341" Code="AWIN002">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Footsteps Spanish Sliced Chorizo 50g</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>

@@ -1,0 +1,17 @@
+<Product VersionDateTime="2018-06-18T10:09:58Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292951299</Code>
+      <Code Scheme="BRANDBANK:PVID">5850518</Code>
+    </ProductCodes>
+    <Subscription Id="42503" Code="OWIN003">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Sun Soaked Feta and Kalamata Olive Flatbread 240g</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>

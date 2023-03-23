@@ -1,0 +1,328 @@
+<Product VersionDateTime="2018-02-15T12:28:02Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292948480</Code>
+      <Code Scheme="BRANDBANK:PVID">5576326</Code>
+    </ProductCodes>
+    <Subscription Id="42341" Code="AWIN002">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Bastides Mini Rosette Saucisson 300g</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=006d6824-388a-9fbf-635b-0bd105865982</Url>
+      <Thumbprint>ECOOTQfW4sKT3BUFg3wQzw==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Bastides Mini Rosette Saucisson 300g</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="08">Deli</Level>
+          <Level Code="02">Bacon &amp; Sausages</Level>
+          <Level Code="07">Other Sausage</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Statements Id="1" Name="Third Party Logos">
+          <Statement Id="2262">Green Dot</Statement>
+        </Statements>
+        <NameLookups Id="4" Name="Allergy Advice">
+          <NameValue>
+            <Name Id="116">Milk</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="119">Nuts</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Sacor,
+12200 Villefranche de Rouergue,
+Aveyron,
+France.</Memo>
+        <NameTextItems Id="16" Name="Dimension">
+          <NameText>
+            <Name Id="183">Shelf Height</Name>
+            <Text xml:space="preserve">236</Text>
+          </NameText>
+          <NameText>
+            <Name Id="184">Shelf Width</Name>
+            <Text xml:space="preserve">57</Text>
+          </NameText>
+          <NameText>
+            <Name Id="185">Shelf Depth</Name>
+            <Text xml:space="preserve">56</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Store in a cool dry place at +18°C maximum. Once opened, keep refrigerated and use within 3 days.
+Best before : see on the pack.</Memo>
+        <NameLookups Id="23" Name="Country">
+          <NameValue>
+            <Name Id="195">Country of Origin</Name>
+            <Value Id="96" Code="FR">France</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Bastides</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Sacor,
+12200 Villefranche de Rouergue,
+Aveyron,
+France.</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="271">Ambient</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="28" Name="Storage Conditions">
+          <NameText>
+            <Name Id="192">Max Temp °C</Name>
+            <Text xml:space="preserve">18</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="282">Box</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Produced using French pork</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="709">Bastides</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="34" Name="Weight">
+          <NameText>
+            <Name Id="227">Gross Weight</Name>
+            <Text xml:space="preserve">329</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="35" Name="Product Marketing" xml:space="preserve">This unique product of French charcuterie will seduce you with its characteristic and authentic flavors.
+
+This Mini Rosette is made in the Aveyron region in France. A recipe handed down through two generations using pigs reared in France. Matured in a natural casing. Using traditional methods of the region and stuffed by hand.</Memo>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">300</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12570" Code="g">Grams</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">300</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">g</Text>
+        </LongTextItems>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+          <Statement Id="1173">Other</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Pork</Text>
+          <Text xml:space="preserve">Salt</Text>
+          <Text xml:space="preserve">Lactose (Milk)</Text>
+          <Text xml:space="preserve">Dextrose</Text>
+          <Text xml:space="preserve">White Pepper</Text>
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">Garlic</Text>
+          <Text xml:space="preserve">Black Pepper</Text>
+          <Text xml:space="preserve">Paprika</Text>
+          <Text xml:space="preserve">Preservative: Potassium Nitrate</Text>
+          <Text xml:space="preserve">Nutmeg</Text>
+          <Text xml:space="preserve">Lactic Fermenting Agent</Text>
+          <Text xml:space="preserve">Natural Pork Casing</Text>
+          <Text xml:space="preserve">Prepared with 159 g of pork per 100 g of finished product</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>Per 100 g</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy (kJ/kcal)</Name>
+            <Values>
+              <Value>1770 / 427</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat </Name>
+            <Values>
+              <Value>34.4</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> of which Saturates (g)</Name>
+            <Values>
+              <Value>13.4</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrates (g) </Name>
+            <Values>
+              <Value>1.2</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> of which Sugars (g)</Name>
+            <Values>
+              <Value>&lt; 0.5</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein (g)</Name>
+            <Values>
+              <Value>28.1</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt (g)</Name>
+            <Values>
+              <Value>5.1</Value>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>1770.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>427.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>34.40000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>13.40000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>1.20000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.50000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>28.10000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>5.10000</Value>
+            </Per100>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="134" Name="Unit Merchandising">
+          <NameText>
+            <Name Id="1778">Height</Name>
+            <Text xml:space="preserve">236</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1779">Width</Name>
+            <Text xml:space="preserve">57</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1780">Depth</Name>
+            <Text xml:space="preserve">56</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="147" Name="Origin">
+          <NameText>
+            <Name Id="2016">Origin Free Text</Name>
+            <Text xml:space="preserve">Made in France</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Dry cured sausage</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <Statements Id="173" Name="Allergen Tag Format">
+          <Statement Id="1902">Bold</Statement>
+        </Statements>
+        <TaggedMemo Id="176" Name="Taggable Information">
+          <Content xml:space="preserve">For allergens, see ingredients in bold</Content>
+          <Tags>
+            <Tag StartIndex="34" Length="4" TagTypeId="2" TagType="Allergen Highlighting Method"/>
+          </Tags>
+        </TaggedMemo>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Pork</Text>
+          <Text xml:space="preserve">Salt</Text>
+          <Text xml:space="preserve">Lactose (Milk)</Text>
+          <Text xml:space="preserve">Dextrose</Text>
+          <Text xml:space="preserve">White Pepper</Text>
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">Garlic</Text>
+          <Text xml:space="preserve">Black Pepper</Text>
+          <Text xml:space="preserve">Paprika</Text>
+          <Text xml:space="preserve">Preservative: Potassium Nitrate</Text>
+          <Text xml:space="preserve">Nutmeg</Text>
+          <Text xml:space="preserve">Lactic Fermenting Agent</Text>
+          <Text xml:space="preserve">Natural Pork Casing</Text>
+          <Text xml:space="preserve">Prepared with 159 g of pork per 100 g of finished product</Text>
+          <Tags>
+            <Tag TextIndex="2" StartIndex="9" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Rosette Saucisson</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1998">Variant</Name>
+            <Text xml:space="preserve">Mini</Text>
+          </NameText>
+        </NameTextItems>
+        <TaggedMemo Id="197" Name="Taggable Allergy Text">
+          <Content xml:space="preserve">May contain Nuts</Content>
+        </TaggedMemo>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

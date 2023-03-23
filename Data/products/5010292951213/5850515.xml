@@ -1,0 +1,17 @@
+<Product VersionDateTime="2018-06-14T08:52:07Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292951213</Code>
+      <Code Scheme="BRANDBANK:PVID">5850515</Code>
+    </ProductCodes>
+    <Subscription Id="42503" Code="OWIN003">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Sun Soaked Sweet Potato Houmous with a Lentil Salsa 150g</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>

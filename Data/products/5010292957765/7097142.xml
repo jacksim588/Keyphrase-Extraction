@@ -1,0 +1,397 @@
+<Product VersionDateTime="2019-08-02T13:33:02Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292957765</Code>
+      <Code Scheme="BRANDBANK:PVID">7097142</Code>
+    </ProductCodes>
+    <Subscription Id="42341" Code="AWIN002">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Soli Spinach &amp; Grana Padano Ravioli 250g</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=000387f1-a91f-d655-9860-13fb08b9eb38</Url>
+      <Thumbprint>r/WEpydR/8UJCoGgUUXjiw==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Soli Spinach &amp; Grana Padano Ravioli 250g</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="04">Ready Made Foods</Level>
+          <Level Code="01">Meals</Level>
+          <Level Code="07">Italian Meals</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Statements Id="1" Name="Third Party Logos">
+          <Statement Id="18">Italy Flag</Statement>
+        </Statements>
+        <Memo Id="3" Name="Other Information" xml:space="preserve">125g of uncooked pasta weighs approximately 154g.
+
+Packaged in a protective atmosphere.</Memo>
+        <NameLookups Id="4" Name="Allergy Advice">
+          <NameValue>
+            <Name Id="111">Crustaceans</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="112">Eggs</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="113">Fish</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="116">Milk</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="119">Nuts</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="1981">Soya</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="129">Wheat</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextLookups Id="7" Name="Cooking Guidelines">
+          <NameValueText>
+            <Name Id="159">Hob</Name>
+            <Value Id="10773">From Chilled</Value>
+            <Text xml:space="preserve">Remove all packaging. Place the pasta in a large pan of salted boiling water. Reduce the heat and simmer gently for 3-4 minutes. Remove the pasta carefully from the water using a slotted spoon to drain off excess water and serve immediately.</Text>
+          </NameValueText>
+        </NameTextLookups>
+        <Statements Id="10" Name="Storage and Usage Statements">
+          <Statement Id="205">Keep Refrigerated</Statement>
+        </Statements>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Produced for:
+Soli,
+Granville House,
+9 Wells Place,
+RH1 3AS.</Memo>
+        <NameTextItems Id="16" Name="Dimension">
+          <NameText>
+            <Name Id="183">Shelf Height</Name>
+            <Text xml:space="preserve">145</Text>
+          </NameText>
+          <NameText>
+            <Name Id="184">Shelf Width</Name>
+            <Text xml:space="preserve">189</Text>
+          </NameText>
+          <NameText>
+            <Name Id="185">Shelf Depth</Name>
+            <Text xml:space="preserve">54</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Keep refrigerated below 5°C. Once opened keep refrigerated and consume within 3 days. Do not exceed use by date.
+For use by date see front of pack.</Memo>
+        <NameLookups Id="23" Name="Country">
+          <NameValue>
+            <Name Id="195">Country of Origin</Name>
+            <Value Id="129" Code="IT">Italy</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Soli</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Soli,
+Granville House,
+9 Wells Place,
+RH1 3AS.</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="272">Chilled</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="28" Name="Storage Conditions">
+          <NameText>
+            <Name Id="192">Max Temp °C</Name>
+            <Text xml:space="preserve">5</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="323">Sleeve</Value>
+          </NameValue>
+        </NameLookups>
+        <Statements Id="30" Name="Promotional Pack Type">
+          <Statement Id="217">Price Mark</Statement>
+        </Statements>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Only Italian flavour</Text>
+          <Text xml:space="preserve">A traditional mix of spinach &amp; grana padano cheese</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="8365">Soli</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="34" Name="Weight">
+          <NameText>
+            <Name Id="227">Gross Weight</Name>
+            <Text xml:space="preserve">298</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="52" Name="Safety Warning" xml:space="preserve">Warning: Grana Padano made with unpasteurised milk and animal rennet.</Memo>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">250</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12570" Code="g">Grams</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">250</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">g</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Filling (55%) (Sautéed Spinach 35% [Spinach (69%), Water, Butter (Cows' Milk), Sunflower Oil, Grana Padano PDO Cheese (with Egg Lysozyme) (Cows' Milk) (3%), Salt, Corn Starch, Garlic], Water, Spinach (10%), Grana Padano PDO Cheese (12%) (with Egg Lysozyme) (Cows' Milk), Lactose, Pasteurised Egg White, Corn Starch, Potato Fibre, Corn Flour, Salt, Butter (Cows' Milk), Nutmeg)</Text>
+          <Text xml:space="preserve">Fresh Egg Pasta (45%) (Wheat Flour, Pasteurised Free Range Egg (21%), Durum Wheat Semolina, Water)</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>(as cooked per on-pack instructions) Per 100g</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy </Name>
+            <Values>
+              <Value>744 kJ</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name/>
+            <Values>
+              <Value>178 kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat </Name>
+            <Values>
+              <Value>4.6g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which saturates </Name>
+            <Values>
+              <Value>2.4g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrates </Name>
+            <Values>
+              <Value>24.2g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which sugars </Name>
+            <Values>
+              <Value>2.3g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fibre </Name>
+            <Values>
+              <Value>1.7g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein </Name>
+            <Values>
+              <Value>7.0g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt </Name>
+            <Values>
+              <Value>0.8g</Value>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>744.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>178.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>4.6000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>2.4000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>24.2000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>2.3000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1194" Name="Fibre (g)">
+            <Per100>
+              <Value>1.7000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>7.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>.8000</Value>
+            </Per100>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="134" Name="Unit Merchandising">
+          <NameText>
+            <Name Id="1778">Height</Name>
+            <Text xml:space="preserve">54</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1779">Width</Name>
+            <Text xml:space="preserve">189</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1780">Depth</Name>
+            <Text xml:space="preserve">145</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="147" Name="Origin">
+          <NameText>
+            <Name Id="2016">Origin Free Text</Name>
+            <Text xml:space="preserve">Made in Italy using free range egg</Text>
+          </NameText>
+        </NameTextItems>
+        <Statements Id="149" Name="Recycling Scheme">
+          <Statement Id="1878">OPRL</Statement>
+        </Statements>
+        <LongTextItems Id="150" Name="Recycling Other Text">
+          <Text xml:space="preserve">Sleeve - Widely Recycled</Text>
+          <Text xml:space="preserve">Tray - Check Recycling</Text>
+          <Text xml:space="preserve">Film - Not Yet Recycled</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Free range egg pasta with Spinach and Grana Padano Filling</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="170" Name="Alternative Description">
+          <NameText>
+            <Name Id="2336">Promotional Description</Name>
+            <Text xml:space="preserve">Soli Spinach &amp; Grana Padano Ravioli PMP 250g</Text>
+          </NameText>
+        </NameTextItems>
+        <Statements Id="173" Name="Allergen Tag Format">
+          <Statement Id="1902">Bold</Statement>
+        </Statements>
+        <TaggedMemo Id="176" Name="Taggable Information">
+          <Content xml:space="preserve">For allergens including Cereals containing Gluten see ingredients in bold</Content>
+          <Tags>
+            <Tag StartIndex="69" Length="4" TagTypeId="2" TagType="Allergen Highlighting Method"/>
+          </Tags>
+        </TaggedMemo>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Filling (55%) (Sautéed Spinach 35% [Spinach (69%), Water, Butter (Cows' Milk), Sunflower Oil, Grana Padano PDO Cheese (with Egg Lysozyme) (Cows' Milk) (3%), Salt, Corn Starch, Garlic], Water, Spinach (10%), Grana Padano PDO Cheese (12%) (with Egg Lysozyme) (Cows' Milk), Lactose, Pasteurised Egg White, Corn Starch, Potato Fibre, Corn Flour, Salt, Butter (Cows' Milk), Nutmeg)</Text>
+          <Text xml:space="preserve">Fresh Egg Pasta (45%) (Wheat Flour, Pasteurised Free Range Egg (21%), Durum Wheat Semolina, Water)</Text>
+          <Tags>
+            <Tag TextIndex="0" StartIndex="72" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="124" Length="3" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="145" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="243" Length="3" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="264" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="271" Length="7" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="292" Length="3" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="362" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="1" StartIndex="6" Length="3" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="1" StartIndex="23" Length="5" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="1" StartIndex="59" Length="3" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="1" StartIndex="76" Length="5" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Ravioli</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1998">Variant</Name>
+            <Text xml:space="preserve">Spinach &amp; Grana Padano</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Soli</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">Granville House,
+9 Wells Place,
+RH1 3AS.</Memo>
+        <TaggedMemo Id="197" Name="Taggable Allergy Text">
+          <Content xml:space="preserve">May contain trace of Crustaceans, Fish, Nuts and Soya</Content>
+          <Tags>
+            <Tag StartIndex="21" Length="32" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedMemo>
+        <LongTextItems Id="245" Name="Social Media">
+          <Text xml:space="preserve">Facebook and Twitter: SoliItalian</Text>
+        </LongTextItems>
+        <Memo Id="247" Name="Promotional Information" xml:space="preserve">Discovered 2 for £5
+Made to Share</Memo>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

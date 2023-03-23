@@ -1,0 +1,344 @@
+<Product VersionDateTime="2021-01-05T15:14:42Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292952753</Code>
+      <Code Scheme="BRANDBANK:PVID">8785214</Code>
+    </ProductCodes>
+    <Subscription Id="42341" Code="AWIN002">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Unearthed Reduced Fat Milano Salami 90g</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=01fc28cb-12a5-11b1-6b07-2c1e0b628ea6</Url>
+      <Thumbprint>oZM/bNznohlKq7R0xVVj1Q==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Unearthed Reduced Fat Milano Salami 90g</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="08">Deli</Level>
+          <Level Code="01">Meat &amp; Other Deli</Level>
+          <Level Code="13">Other</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Memo Id="3" Name="Other Information" xml:space="preserve">Packaged in a protective atmosphere.</Memo>
+        <Statements Id="10" Name="Storage and Usage Statements">
+          <Statement Id="205">Keep Refrigerated</Statement>
+        </Statements>
+        <NameLookups Id="11" Name="Recycling Info">
+          <NameValue>
+            <Name Id="199">Film</Name>
+            <Value Id="35170">Plastic - Not Currently Recycled</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="200">Tray</Name>
+            <Value Id="35169">Plastic - Check Local Recycling</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Produced for:
+Unearthed®,
+Discovery House,
+11 Wells Place,
+RH1 3AS.</Memo>
+        <NameTextItems Id="16" Name="Dimension">
+          <NameText>
+            <Name Id="183">Shelf Height</Name>
+            <Text xml:space="preserve">234</Text>
+          </NameText>
+          <NameText>
+            <Name Id="184">Shelf Width</Name>
+            <Text xml:space="preserve">193</Text>
+          </NameText>
+          <NameText>
+            <Name Id="185">Shelf Depth</Name>
+            <Text xml:space="preserve">14</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="19" Name="Preparation and Usage" xml:space="preserve">Try with rosemary and black pepper olives
+
+Serving: For easy separation remove product from fridge 30 minutes prior to eating.</Memo>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Keep refrigerated below 4°C. Once opened keep refrigerated and consume within 2 days. Do not exceed use by date.
+For use by date see front of pack.</Memo>
+        <Memo Id="21" Name="Further Description" xml:space="preserve">1p from every pack supports
+Action Against Hunger
+Registered Charity No. 1047501</Memo>
+        <NameLookups Id="23" Name="Country">
+          <NameValue>
+            <Name Id="195">Country of Origin</Name>
+            <Value Id="129" Code="IT">Italy</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Unearthed</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Unearthed®,
+Discovery House,
+11 Wells Place,
+RH1 3AS.
+www.foodsunearthed.co.uk</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="272">Chilled</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="28" Name="Storage Conditions">
+          <NameText>
+            <Name Id="192">Max Temp °C</Name>
+            <Text xml:space="preserve">4</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="326">Tray &amp; Heat Sealed</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Discover a world of flavour</Text>
+          <Text xml:space="preserve">Your usual Milano Salami with loads of delicious flavour just less of the fat!</Text>
+          <Text xml:space="preserve">Reduced fat</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="6694">Unearthed</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="34" Name="Weight">
+          <NameText>
+            <Name Id="227">Gross Weight</Name>
+            <Text xml:space="preserve">113</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">90</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12570" Code="g">Grams</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">90</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">g</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Pork (96%)</Text>
+          <Text xml:space="preserve">Salt</Text>
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">White Pepper</Text>
+          <Text xml:space="preserve">Preservatives (Potassium Nitrate, Sodium Nitrite)</Text>
+          <Text xml:space="preserve">Garlic</Text>
+          <Text xml:space="preserve">Prepared with 135g of Pork per 100g of finished product</Text>
+          <Text xml:space="preserve">Moisture is lost during curing and maturation</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>Per 100g</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy </Name>
+            <Values>
+              <Value>940 kJ</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name/>
+            <Values>
+              <Value>225 Kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat </Name>
+            <Values>
+              <Value>13g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> of which saturates </Name>
+            <Values>
+              <Value>5.7g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrate</Name>
+            <Values>
+              <Value>&lt;0.5g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which sugars</Name>
+            <Values>
+              <Value>&lt;0.5g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fibre </Name>
+            <Values>
+              <Value>&lt;0.5g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein </Name>
+            <Values>
+              <Value>27g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt </Name>
+            <Values>
+              <Value>3.8g</Value>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>940.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>225.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>13.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>5.7000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.5000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.5000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1194" Name="Fibre (g)">
+            <Per100>
+              <Qualifier Id="3">&lt;</Qualifier>
+              <Value>0.5000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>27.0000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>3.8000</Value>
+            </Per100>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="134" Name="Unit Merchandising">
+          <NameText>
+            <Name Id="1778">Height</Name>
+            <Text xml:space="preserve">234</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1779">Width</Name>
+            <Text xml:space="preserve">193</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1780">Depth</Name>
+            <Text xml:space="preserve">14</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="147" Name="Origin">
+          <NameText>
+            <Name Id="2016">Origin Free Text</Name>
+            <Text xml:space="preserve">Produced in Italy using Italian pork</Text>
+          </NameText>
+        </NameTextItems>
+        <Statements Id="149" Name="Recycling Scheme">
+          <Statement Id="1878">OPRL</Statement>
+        </Statements>
+        <LongTextItems Id="155" Name="Web Address">
+          <Text xml:space="preserve">www.foodsunearthed.co.uk</Text>
+        </LongTextItems>
+        <LongTextItems Id="156" Name="Nutritional Claims">
+          <Text xml:space="preserve">Reduced fat</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">30% less fat than standard Milano Salami.</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Pork (96%)</Text>
+          <Text xml:space="preserve">Salt </Text>
+          <Text xml:space="preserve">Sugar</Text>
+          <Text xml:space="preserve">White Pepper</Text>
+          <Text xml:space="preserve">Preservatives (Potassium Nitrate, Sodium Nitrite)</Text>
+          <Text xml:space="preserve">Garlic</Text>
+          <Text xml:space="preserve">Prepared with 135g of Pork per 100g of finished product</Text>
+          <Text xml:space="preserve">Moisture is lost during curing and maturation</Text>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Milano Salami</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Unearthed®</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">Discovery House,
+11 Wells Place,
+RH1 3AS.</Memo>
+        <LongTextItems Id="245" Name="Social Media">
+          <Text xml:space="preserve">Facebook &amp; Twitter: foodsunearthed</Text>
+        </LongTextItems>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

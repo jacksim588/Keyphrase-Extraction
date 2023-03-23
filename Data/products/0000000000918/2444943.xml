@@ -1,0 +1,17 @@
+<Product VersionDateTime="2014-09-16T17:34:49Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">0000000000918</Code>
+      <Code Scheme="BRANDBANK:PVID">2444943</Code>
+    </ProductCodes>
+    <Subscription Id="55935" Code="ODEL039">Delifrance (UK) Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Waitrose Gruyere and Chive Rustique 80g</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>

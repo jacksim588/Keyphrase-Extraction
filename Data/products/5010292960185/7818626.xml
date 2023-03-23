@@ -1,0 +1,382 @@
+<Product VersionDateTime="2019-12-30T08:30:51Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292960185</Code>
+      <Code Scheme="BRANDBANK:PVID">7818626</Code>
+    </ProductCodes>
+    <Subscription Id="42341" Code="AWIN002">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Squeaky Bean Sweet Pancakes Original 360g</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=00f867d4-76a4-e5da-5512-218e0923a76a</Url>
+      <Thumbprint>EPVfSLBqdu7TRgqcedMsMw==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Squeaky Bean Sweet Pancakes Original 360g</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="04">Ready Made Foods</Level>
+          <Level Code="02">Snacks</Level>
+          <Level Code="08">Other Snacks</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Statements Id="2" Name="Lifestyle">
+          <Statement Id="68">Suitable for Vegans</Statement>
+        </Statements>
+        <Memo Id="3" Name="Other Information" xml:space="preserve">Packaged in a protective atmosphere.</Memo>
+        <NameLookups Id="4" Name="Allergy Advice">
+          <NameValue>
+            <Name Id="1981">Soya</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="129">Wheat</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextLookups Id="7" Name="Cooking Guidelines">
+          <NameValueText>
+            <Name Id="207">Cooking Instructions</Name>
+            <Value Id="331">General</Value>
+            <Text xml:space="preserve">We've made these pancakes ready to eat &amp; quick to heat so all you have to do is add plenty of delicious toppings!</Text>
+          </NameValueText>
+          <NameValueText>
+            <Name Id="152">Grill</Name>
+            <Value Id="10773">From Chilled</Value>
+            <Text xml:space="preserve">If you want extra golden, crispy pancakes, remove from packaging and grill.</Text>
+          </NameValueText>
+          <NameValueText>
+            <Name Id="151">Microwave</Name>
+            <Value Id="10773">From Chilled</Value>
+            <Text xml:space="preserve">For something softer microwave: Remove all packaging and heat on full power for 25 secs 800W.
+All microwaves vary. Guide only.</Text>
+          </NameValueText>
+          <NameValueText>
+            <Name Id="154">Shallow Fry</Name>
+            <Value Id="10773">From Chilled</Value>
+            <Text xml:space="preserve">If you want extra golden, crispy pancakes, remove from packaging and fry.</Text>
+          </NameValueText>
+        </NameTextLookups>
+        <Statements Id="10" Name="Storage and Usage Statements">
+          <Statement Id="202">Not Suitable for Home Freezing</Statement>
+          <Statement Id="205">Keep Refrigerated</Statement>
+          <Statement Id="2287">Ready to Eat</Statement>
+        </Statements>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Produced for:
+Squeaky Bean®,
+Discovery House,
+11 Wells Place,
+RH1 3AS,
+U.K.</Memo>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Keep refrigerated below 5°C.
+Once opened keep refrigerated and consume within 2 days. Do not exceed use by date. Not suitable for home freezing.
+For Use By Date See Front of Pack.</Memo>
+        <NameLookups Id="23" Name="Country">
+          <NameValue>
+            <Name Id="195">Country of Origin</Name>
+            <Value Id="96" Code="FR">France</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Squeaky Bean</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Squeaky Bean®,
+Discovery House,
+11 Wells Place,
+RH1 3AS,
+U.K.</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="272">Chilled</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="28" Name="Storage Conditions">
+          <NameText>
+            <Name Id="192">Max Temp °C</Name>
+            <Text xml:space="preserve">5</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="326">Tray &amp; Heat Sealed</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Ready-to-eat</Text>
+          <Text xml:space="preserve">Wildly delicious plants</Text>
+          <Text xml:space="preserve">Vegan</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="120778">Squeaky Bean</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">360</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12570" Code="g">Grams</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">360</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">G</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Wheat Flour (42%)</Text>
+          <Text xml:space="preserve">Water</Text>
+          <Text xml:space="preserve">Sugar (14%)</Text>
+          <Text xml:space="preserve">Sunflower Oil</Text>
+          <Text xml:space="preserve">Soybean</Text>
+          <Text xml:space="preserve">Salt</Text>
+          <Text xml:space="preserve">Raising Agents: Sodium Carbonates and Diphosphates</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>Per 100g</Heading>
+            <Heading>Per Pancake (60g Typical)</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy </Name>
+            <Values>
+              <Value>1103kJ / 263kcal</Value>
+              <Value>662kJ / 158kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat </Name>
+            <Values>
+              <Value>10g</Value>
+              <Value>6.0g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> Of which Saturates </Name>
+            <Values>
+              <Value>1.1g</Value>
+              <Value>0.7g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrates</Name>
+            <Values>
+              <Value>35g</Value>
+              <Value>21g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> Of which Sugars </Name>
+            <Values>
+              <Value>9.3g</Value>
+              <Value>5.6g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fibre </Name>
+            <Values>
+              <Value>2.4g</Value>
+              <Value>1.4g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein </Name>
+            <Values>
+              <Value>6.9g</Value>
+              <Value>4.1g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt </Name>
+            <Values>
+              <Value>1.7g</Value>
+              <Value>1.0g</Value>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <PerServingHeading>Per Pancake (60g Typical)</PerServingHeading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>1103.0000</Value>
+            </Per100>
+            <PerServing>
+              <Value>662.0000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>263.0000</Value>
+            </Per100>
+            <PerServing>
+              <Value>158.0000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>10.0000</Value>
+            </Per100>
+            <PerServing>
+              <Value>6.0000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>1.1000</Value>
+            </Per100>
+            <PerServing>
+              <Value>.7000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>35.0000</Value>
+            </Per100>
+            <PerServing>
+              <Value>21.0000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>9.3000</Value>
+            </Per100>
+            <PerServing>
+              <Value>5.6000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1194" Name="Fibre (g)">
+            <Per100>
+              <Value>2.4000</Value>
+            </Per100>
+            <PerServing>
+              <Value>1.4000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>6.9000</Value>
+            </Per100>
+            <PerServing>
+              <Value>4.1000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>1.7000</Value>
+            </Per100>
+            <PerServing>
+              <Value>1.0000</Value>
+            </PerServing>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="147" Name="Origin">
+          <NameText>
+            <Name Id="2016">Origin Free Text</Name>
+            <Text xml:space="preserve">Produced in France</Text>
+          </NameText>
+        </NameTextItems>
+        <Statements Id="149" Name="Recycling Scheme">
+          <Statement Id="1878">OPRL</Statement>
+        </Statements>
+        <LongTextItems Id="150" Name="Recycling Other Text">
+          <Text xml:space="preserve">Film - Not Yet Recycled</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Sweet Pancakes.</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <Statements Id="173" Name="Allergen Tag Format">
+          <Statement Id="1902">Bold</Statement>
+        </Statements>
+        <TaggedMemo Id="176" Name="Taggable Information">
+          <Content xml:space="preserve">For allergens see ingredients in bold</Content>
+          <Tags>
+            <Tag StartIndex="33" Length="4" TagTypeId="2" TagType="Allergen Highlighting Method"/>
+          </Tags>
+        </TaggedMemo>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Wheat Flour (42%)</Text>
+          <Text xml:space="preserve">Water</Text>
+          <Text xml:space="preserve">Sugar (14%)</Text>
+          <Text xml:space="preserve">Sunflower Oil</Text>
+          <Text xml:space="preserve">Soybean</Text>
+          <Text xml:space="preserve">Salt</Text>
+          <Text xml:space="preserve">Raising Agents: Sodium Carbonates and Diphosphates</Text>
+          <Tags>
+            <Tag TextIndex="0" StartIndex="0" Length="5" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="4" StartIndex="0" Length="7" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Sweet Pancakes</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1998">Variant</Name>
+            <Text xml:space="preserve">Original</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Squeaky Bean®</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">Discovery House,
+11 Wells Place,
+RH1 3AS,
+U.K.</Memo>
+        <TaggedMemo Id="197" Name="Taggable Allergy Text">
+          <Content xml:space="preserve">These pancakes are prepared to a vegan recipe but are not suitable for Milk and Egg allergy sufferers as these allergens are present in the factory. Strict controls are in place to prevent cross-contamination but for severe allergy sufferers we advise that these products are not suitable</Content>
+          <Tags>
+            <Tag StartIndex="71" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag StartIndex="80" Length="3" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedMemo>
+        <LongTextItems Id="245" Name="Social Media">
+          <Text xml:space="preserve">Facebook and Instagram: @squeakybeanveg</Text>
+        </LongTextItems>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

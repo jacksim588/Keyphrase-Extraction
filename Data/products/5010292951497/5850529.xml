@@ -1,0 +1,17 @@
+<Product VersionDateTime="2018-05-25T15:57:57Z" UpdateType="Delete">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5010292951497</Code>
+      <Code Scheme="BRANDBANK:PVID">5850529</Code>
+    </ProductCodes>
+    <Subscription Id="42503" Code="OWIN003">Winterbotham Darby And Co Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Sun Soaked Pimento Stuffed Olives Sharing Pot 400g</DiagnosticDescription>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+</Product>
